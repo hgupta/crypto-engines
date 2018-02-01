@@ -1,0 +1,17 @@
+{
+  "name": "crypto-engines",
+  "version": "1.0.0",
+  "description": "Psuedo-random number generation engine for likelihoods ",
+  "main": "index.js",
+  "browser": "index.browser.js",
+  "repository": "https://github.com/hgupta/crypto-engines.git",
+  "author": "Harsh Gupta",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
